@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             //comment1
             //comment2
+            //comment3
         }
     }
 }
