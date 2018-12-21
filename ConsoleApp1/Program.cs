@@ -16,7 +16,7 @@ namespace ConsoleApp1
             //comment4
 			//comment5
 			//comment6
-            string s = "abc";
+            string s = "abcd";
         }
     }
 }
